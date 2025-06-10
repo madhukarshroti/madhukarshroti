@@ -40,17 +40,24 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats (Styled for Profile Impact)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=halfengineer&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=halfengineer&show_icons=true&count_private=true&hide=issues&hide_rank=false&theme=radical&custom_title=HalfEngineer%27s%20GitHub%20Stats" alt="HalfEngineer GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=halfengineer&theme=radical" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=halfengineer&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=halfengineer&layout=compact&theme=radical" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=halfengineer&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
+
+### 🏆 Customized GitHub Trophy (Just for Flair 😎)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=halfengineer&theme=radical&row=1&margin-w=15&no-frame=true" alt="Trophies" />
+</p>
+
 
 ### 📫 Let's Connect
 
